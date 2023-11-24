@@ -123,6 +123,8 @@ Welcome to the Pizza Sales Analysis project! This initiative aims to delve into 
 
 ### Sales Analysis:
 
+<img width="460" alt="pizza tr" src="https://github.com/BvernyuyN/Pizza-sales-analyses-SQL-and-Power-Bi-/assets/149203833/bc989a64-3f1e-417a-b904-3fa187baa10b">
+
 1. **Busiest Sales Days:**
    - **Observation:** Thursday, Friday, and Saturday consistently have the highest pizza sales.
    - **Friday Standout:** Among these days, Friday stands out as the best day for sales, generating revenue of almost $3500.
@@ -138,6 +140,9 @@ Welcome to the Pizza Sales Analysis project! This initiative aims to delve into 
    - **Recommendation:** Implement targeted marketing campaigns or promotions during these months to stimulate sales.
 
 ### Product Analysis:
+
+<img width="461" alt="top5" src="https://github.com/BvernyuyN/Pizza-sales-analyses-SQL-and-Power-Bi-/assets/149203833/983bef14-6a2d-4b2e-be81-8da34c07f766">
+
 
 4. **Category Sales Percentage:**
    - **Best Category:** The Classic category has the highest sales percentage.
@@ -157,6 +162,8 @@ Welcome to the Pizza Sales Analysis project! This initiative aims to delve into 
    - **Top Performing Pizza Name:** The Thai Chicken pizza is the best-performing pizza by name.
    - **Least Performing Pizza Name:** The Brie Carre pizza is consistently the least ordered.
    - **Recommendation:** Leverage the popularity of the Thai Chicken pizza in marketing efforts; consider revisiting the Brie Carre pizza's positioning.
+
+<img width="499" alt="reco" src="https://github.com/BvernyuyN/Pizza-sales-analyses-SQL-and-Power-Bi-/assets/149203833/b0f593f1-60e6-468e-ae32-9b2340497554">
 
 ### Conclusion:
 
